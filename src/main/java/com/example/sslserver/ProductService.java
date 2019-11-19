@@ -8,7 +8,7 @@ import java.util.*;
 public class ProductService {
 
     //Creating a sample list to store objectanable words without using db
-    private List<String> objectinableWordList = Arrays.asList("fuck","f**k");
+    private List<String> objectinableWordList = Arrays.asList("damn","crap");
 
     private Map<String, List<String>> commentsForProduts = new HashMap<String, List<String>>();
 
